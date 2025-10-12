@@ -16,8 +16,8 @@ function App() {
     <>
     <NavbarSection/>
     <HomeSection/>
-    {/* <AboutSection/> */}
-    {/* <ServiceSection/> */}
+    <AboutSection/>
+    <ServiceSection/>
     {/* <PortfolioSection/> */}
     {/* <ContactSection/> */}
     {/* <FooterSection/> */}
