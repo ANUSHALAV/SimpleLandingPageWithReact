@@ -19,8 +19,8 @@ function App() {
     <AboutSection/>
     <ServiceSection/>
     {/* <PortfolioSection/> */}
-    {/* <ContactSection/> */}
-    {/* <FooterSection/> */}
+    <ContactSection/>
+    <FooterSection/>
     </>
   )
 }
