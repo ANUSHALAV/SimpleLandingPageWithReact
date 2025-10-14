@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 
 function ContactSection() {
     return(
-        <Container className='mb-5'>
+        <Container className='mb-5' id="contact">
             <Row>
                 <div className="col-12 col-md-6 mb-5">
                     <h4 className="sectionHeading">Contact</h4>
