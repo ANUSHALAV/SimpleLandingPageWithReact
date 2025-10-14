@@ -10,7 +10,7 @@ function HomeSection() {
                     <div className="col-12 col-md-6">
                         <h1>Welcome to Home Section</h1>
                         <p>This is the home section of the website. This section contains the introduction and the main content of the website.</p>
-                        <div class="d-flex gap-3">
+                        <div className="d-flex gap-3">
                             <button className="btn primaryBtn">Get Started</button>
                             <button className="btn secondaryBtn">Learn More</button>
                         </div>
