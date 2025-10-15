@@ -16,7 +16,7 @@ function HomeSection() {
                         </div>
                     </div>
                     <div className="col-12 col-md-6">
-                        <img src="public\assets\intro-bg.jpg" alt="this is the hero section image" className="img-fluid shadow-lg rounded-4" />
+                        <img src="public/assets/intro-bg.jpg" alt="this is the hero section image" className="img-fluid shadow-lg rounded-4" />
                     </div>
                 </Row>
             </Container>

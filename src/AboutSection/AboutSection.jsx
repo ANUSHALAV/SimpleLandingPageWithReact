@@ -13,7 +13,7 @@ function AboutSection() {
 
             <Row className='align-items-center justify-content-between mb-5'>
                 <div className="col-12 col-md-6 mb-5">
-                    <img src="public\assets\about.jpg" alt="this is the about section image" className="img-fluid shadow-lg rounded-4" />
+                    <img src="public/assets/about.jpg" alt="this is the about section image" className="img-fluid shadow-lg rounded-4" />
                 </div>
                 <div className="col-12 col-md-6">
                     <h2>Welcome to About Section</h2>
